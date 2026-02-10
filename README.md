@@ -5,3 +5,4 @@ aplikasi login
 2 masukan password 
 3 klik create akun
 4 masuk ke tampilan home
+5 klil login untuk masuk
